@@ -2,7 +2,7 @@
 
 Hello! My name is Muhammad Zaidi. I study at the University of Washington. This page says a little about me.
 
-![Dubs](hike.png "A picture of a hike I did this summer")
+![Hike](hike.png "A picture of a hike I did this summer")
 
 ## Academics
 
