@@ -2,7 +2,7 @@
 
 Hello! My name is Muhammad Zaidi. I study at the University of Washington. This page says a little about me.
 
-![Dubs](dubs.jpg "A picture of Dubs a.k.a. UW Example Student")
+![Dubs](hike.jpg "A picture of Dubs a.k.a. UW Example Student")
 
 ## Academics
 
