@@ -6,28 +6,28 @@ Hello! My name is Muhammad Zaidi. I study at the University of Washington. This 
 
 ## Academics
 
-I am majoring in English and Computer Science. I am currently enrolled in **ENGL396: Software Documentation**. When I graduate, 
-I plan to become a technical writer or a data scientist.
+I am majoring in Computer Science and minoring in Technical & Professional Communication. I am currently enrolled in **ENGL396: Software Documentation**. When I graduate, 
+I plan to become a software engineer or a AI engineer.
 
 Here is a list of my favorite classes at UW:
 
-- [Databases and Data Modeling](https://myplan.uw.edu/course/#/courses/INFO330?states=N4Ig7gDgziBcLADrgJYDsAmB7MAJApigOYAWALsrAIwCsALAEwA0yY62YACllCmSljSUGANgC%2BIMUA)
-- [Data Structures and Parallelism](https://courses.cs.washington.edu/courses/cse332/)
-- [Introduction to Professional and Technical Writing](https://english.washington.edu/courses/2024/winter/engl/288/g)
+- [Intro to Computer Science III](https://myplan.uw.edu/course/#/courses/CSE%20123?id=3f2804ee-24e3-48bb-aa87-6b12cc919a87)
+- [Perspectives on Film: Genre](https://myplan.uw.edu/course/#/courses/CMS%20272?id=409bc708-8fb0-4d9e-ba81-e052a2cfe98f)
+- [Introduction to Data Management](https://myplan.uw.edu/course/#/courses/CSE%20344?id=6b47e349-1476-4fa5-b05a-3d89b30ece51)
 
-## Programming Background
+## Hiking Background
 
-I am relatively new to programming. The following table summarizes my experience with different programming languages:
+One of my favorite pastimes is hiking. Here are some of the hikes I've done and how I would rank them:
 
-| Language | Experience |
+| Hike | Difficulty |
 |---------:|------------|
-| Python   | Minimal    |
-|  HTML    | Authored many web pages    |
-|  SQL     | Can write complex joins       |
+| Tiger Mountain   | Medium    |
+|  Teneriffe Falls    | Hard    |
+|  Rattlesnake lake     | Hard       |
 
 
 ## Words of Wisdom
 
-One of my favorite quotes is from Albert Einstein:
+One of my favorite quotes is from Imam Ali:
 
-> "The only thing that you absolutely have to know, is the location of the library."
+> "Two things define you: your patience when you have nothing and your attitude when you have everything."
